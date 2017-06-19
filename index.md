@@ -1,5 +1,6 @@
  
 # Welcome to My Hackathon Page
+![Soccer is fun!](http://www.lijsoccer.com/images/soccerBall.png)
  
 ## About
  
